@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog de Viagens</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header, footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        nav {
+            background-color: #f4f4f4;
+            padding: 10px;
+        }
+
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+
+        #content1 {
+            text-align: center;
+            padding: 20px;
+        }
+
+        #content2 {
+            text-align: center;
+            padding: 20px;
+        }
+
+        #content3 {
+            text-align: center;
+            padding: 20px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .rodape {
+            
+        }
+        
+      
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Blog de Viagens</h1>
+    </header>
+    
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="conteudo_1.html">Aventura</a> |
+        <a href="conteudo_2.html">Viajem em Família</a> |
+        <a href="conteudo_3.html">experiências</a> |
+        <a href="contatos.html">Fazendo um Roteiro</a>
+    </nav>
+    
+    <main>
+    <!-- Página Home -->
+        <h2><strong>Bem-vindo ao nosso Blog de Viagens!</strong></h2>
+        <p>Aqui você encontrará dicas, relatos e experiências de viagens incríveis ao redor do mundo.</p>
+        
+        <h3>Conteúdos em Destaque:</h3>
+        
+        <!-- Conteúdo 1 -->
+        <a href="conteudo_1.html">
+            <img src="imagem_1.jpg" alt="Descrição da imagem 1">
+        </a>
+        
+        <!-- Conteúdo 2 -->
+        <a href="conteudo_2.html">
+            <img src="imagem_2.jpg" alt="Descrição da imagem 2">
+        </a>
+
+        <!-- Conteúdo 3 -->
+        <a href="conteudo_3.html">
+            <img src="imagem_3.jpg" alt="Descrição da imagem 3">
+        </a>
+
+    </main>
+
+    <footer>
+
+        <div class="rodape">
+            <p>Siga as nossas redes sociais</p>
+            <a href="#"><img src="img/facebook.png" alt="Facebook Blog"></a>
+            <a href="#"><img src="img/instagram.png"alt="Instagram Blog"></a>
+            <a href="#"><img src="img/youtube.png" alt="Youtube Blog"></a>
+        </div>
+        <p>&copy; 2024 Blog de Viagens</p>
+    </footer>
+</body>
+</html>

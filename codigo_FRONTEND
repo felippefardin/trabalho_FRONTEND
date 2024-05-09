@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog de Viagens</title>
+    <title>Blog de Viajem</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -12,10 +12,11 @@
         }
 
         header, footer {
-            background-color: #333;
+            background-color: rebeccapurple;
             color: white;
             text-align: center;
-            padding: 10px 0;
+            padding: 10px 50px;
+            
         }
 
         nav {
@@ -46,6 +47,7 @@
         img {
             max-width: 100%;
             height: auto;
+            padding: 0.8%;
         }
         .rodape {
             
@@ -56,20 +58,20 @@
 </head>
 <body>
     <header>
-        <h1>Blog de Viagens</h1>
+        <h1>Tudo sobre viajar</h1>
     </header>
     
     <nav>
         <a href="index.html">Home</a> |
         <a href="conteudo_1.html">Aventura</a> |
         <a href="conteudo_2.html">Viajem em Família</a> |
-        <a href="conteudo_3.html">experiências</a> |
-        <a href="contatos.html">Fazendo um Roteiro</a>
+        <a href="conteudo_3.html">Pontos Turísticos</a> |
+        <a href="contatos.html">Montando um Roteiro</a>
     </nav>
     
     <main>
     <!-- Página Home -->
-        <h2><strong>Bem-vindo ao nosso Blog de Viagens!</strong></h2>
+        <h2><strong>Bem-vindo ao nosso Blog de Viajem!</strong></h2>
         <p>Aqui você encontrará dicas, relatos e experiências de viagens incríveis ao redor do mundo.</p>
         
         <h3>Conteúdos em Destaque:</h3>

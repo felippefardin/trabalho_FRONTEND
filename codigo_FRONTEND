@@ -49,6 +49,7 @@
             height: auto;
             padding: 0.8%;
         }
+       
         
     </style>
 </head>
@@ -87,16 +88,34 @@
             <img src="imagem_3.jpg" alt="Descrição da imagem 3">
         </a>
 
-        <!-- Conteúdo 4 -->
-        <div>
-            <input type="email" value="e-mail">
-            <ul>
-                <form action="Relato">
-                                        <textarea rows="10" cols="40" maxlength="500"></textarea>
-                </form>
-            </ul>
-        </div>
-
+        <p>Informe seus dados:<p>
+        
+        <input type="text" id="email" placeholder="Digite seu e-mail"><br><br>
+        <input type="text" id="nome" placeholder="Digite seu nome"><br><br>
+        <input type="text" id="telefone" placeholder="Digite seu telefone"><br><br>
+        
+        <h2>Conte-nos uma história da sua viajem:</h2>
+        
+        <textarea id="historia" rows="4" cols="50"></textarea><br><br>
+        
+        <button onclick="pedirHistoria()">Enviar</button>
+        
+        <script>
+        function pedirHistoria() {
+          var email = document.getElementById('email').value;
+          var nome = document.getElementById('nome').value;
+          var telefone = document.getElementById('telefone').value;
+          
+          var historia = document.getElementById('historia').value;
+          
+          alert('Obrigado por compartilhar sua história, ' + nome + '!\n
+        E-mail: ' + email + '\nTelefone: ' + telefone + '\n
+        História:\n' + historia);
+        }
+        </script>
+        
+        </body>
+        </html>
     </main>
 
     <footer>

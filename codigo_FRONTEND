@@ -58,7 +58,7 @@
         <h1>Tudo sobre viajar</h1>
     </header>
     
-    <nav>
+    <nav >
         <a href="index.html">Home</a> |
         <a href="conteudo_1.html">Aventura</a> |
         <a href="conteudo_2.html">Viajem em Família</a> |
@@ -69,7 +69,7 @@
     <main>
     <!-- Página Home -->
         <h2><strong>Bem-vindo ao nosso Blog de Viajem!</strong></h2>
-        <p>Aqui você encontrará <strong>dicas, relatos e experiências</strong> de viagens incríveis ao redor do <strong>MUNDO</strong>.</p>
+        <p>Aqui você encontrará <strong style="color: rebeccapurple;">dicas, relatos e experiências</strong> de viagens incríveis ao redor do <strong style="color: rebeccapurple;">MUNDO</strong>.</p>
         
         <h3>Conteúdos em Destaque:</h3>
         
@@ -88,13 +88,13 @@
             <img src="imagem_3.jpg" alt="Descrição da imagem 3">
         </a>
 
-        <p>Informe seus dados:<p>
+        <p><strong>Informe seus dados:</strong><p>
         
         <input type="text" id="email" placeholder="Digite seu e-mail"><br><br>
         <input type="text" id="nome" placeholder="Digite seu nome"><br><br>
         <input type="text" id="telefone" placeholder="Digite seu telefone"><br><br>
         
-        <h2>Conte-nos uma história da sua viajem:</h2>
+        <h2 style="color: rebeccapurple;">Conte-nos uma história da sua viajem:</h2>
         
         <textarea id="historia" rows="4" cols="50"></textarea><br><br>
         

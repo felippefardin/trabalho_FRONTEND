@@ -74,19 +74,28 @@
         <h3>Conteúdos em Destaque:</h3>
         
         <!-- Conteúdo 1 -->
+        <div style="background-color: antiquewhite;" >
+        <h3 style="color: rebeccapurple; font-size: 200%;" ><u>Férias de Verão</u></h3>
         <a href="conteudo_1.html">
-            <img src="imagem_1.jpg" alt="Descrição da imagem 1">
+            <img src="img/Ferias de verão.jpg" alt="Ferias de verão">
         </a>
+        </div>
         
         <!-- Conteúdo 2 -->
+        <div style="background-color: aqua;" >
+        <h3 style="color: rebeccapurple; font-size: 200%;" ><u>Lugar para relaxar</u></h3>
         <a href="conteudo_2.html">
-            <img src="imagem_2.jpg" alt="Descrição da imagem 2">
+            <img src="img/Relaxar.jpg" alt="Relaxar">
         </a>
+        </div>
 
         <!-- Conteúdo 3 -->
+        <div style="background-color: antiquewhite;" >
+        <h3 style="color: rebeccapurple; font-size: 200%;" ><u>Aventuras nas montanhas</u></h3>
         <a href="conteudo_3.html">
-            <img src="imagem_3.jpg" alt="Descrição da imagem 3">
+            <img src="img/Aventura.jpg" alt="Aventura">
         </a>
+        </div>
 
         <p><strong>Informe seus dados:</strong><p>
         

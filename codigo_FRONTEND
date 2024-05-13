@@ -56,47 +56,61 @@
 </head>
 <body>
     <header>
-        <h1>Tudo sobre viajar</h1>
+        <h1>DICAS E HISTÓRIAS DE VIAGENS INCRÍVEIS</h1>
     </header>
     
-    <nav >
+    <nav><center>
         <a href="index.html">HOME</a> |
         <a href="conteudo_1.html">VOLTA AO MUNDO</a> |
         <a href="conteudo_2.html">VIAJEM COM A FAMÍLIA</a> |
         <a href="conteudo_3.html">BRINCANDO COM A NEVE</a> |
         <a href="roteiros.html">FAÇA SEU ROTEIRO</a>
+        </center>
     </nav>
   
     <main>
     <!-- Página Home -->
-        <h2><strong>Bem-vindo ao nosso Viajem Tur!</strong></h2>
+        <h2><strong>Bem-vindo ao nosso blog Viajem Tur!</strong></h2>
         <p>Aqui você encontrará <strong style="color: rebeccapurple;">dicas, relatos e experiências</strong> de viagens incríveis ao redor do <strong style="color: rebeccapurple;">MUNDO</strong>.</p>
         
         <h3>Conteúdos em Destaque:</h3>
+
+        <hr><hr>
         
         <!-- Conteúdo 1 -->
         <div style="background-color: antiquewhite;" >
-        <h3 style="color: rebeccapurple; font-size: 200%;" ><u>FÉRIAS DE VERÃO</u></h3>
+        <h3 style="color: rebeccapurple; font-size: 200%;"><u>FÉRIAS DE VERÃO</u></h3>
         <a href="conteudo_1.html">
+            <p style="color: rebeccapurple; font-size: 200%;">Curtindo as férias de verão, cheio de adrenalina e muitaS históriaS para contar.</p>
             <img src="img/Ferias de verão.jpg" alt="Ferias de verão">
         </a>
         </div>
+
+        <hr><hr>
         
         <!-- Conteúdo 2 -->
         <div style="background-color: antiquewhite;" >
         <h3 style="color: rebeccapurple; font-size: 200%;" ><u>LUGARES PARA RELAXAR</u></h3>
         <a href="conteudo_2.html">
+            <p style="color: rebeccapurple; font-size: 200%;">Pra você que gosta de fugir do tumuldo da Cidade grande e<br>
+            tirar uns dias de descanso. Temos aqui ótimas dicas!!</p>
             <img src="img/Relaxar.jpg" alt="Relaxar">
         </a>
         </div>
 
+        <hr><hr>
+
         <!-- Conteúdo 3 -->
         <div style="background-color: antiquewhite;" >
-        <h3 style="color: rebeccapurple; font-size: 200%;" ><u>AVENTURA NAS MONTANHAS</u></h3>
+        <h3 style="color: rebeccapurple; font-size: 200%;"><u>AVENTURA NAS MONTANHAS</u></h3>
+        <p style="color: rebeccapurple; font-size: 200%;"><u>Que tal alguns dias em um lugar brm frio e cheio de neve?<br>
+        Bora com a agente que temos dicas incríveis para fazer seu boneco de neve!!</u></p>
         <a href="conteudo_3.html">
             <img src="img/Aventura.jpg" alt="Aventura">
         </a>
         </div>
+
+        <hr><hr>
 
         <p><strong>Informe seus dados:</strong><p>
         

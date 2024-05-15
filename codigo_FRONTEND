@@ -104,9 +104,9 @@ footer{
         <hr><hr>
         
         <!-- Conteúdo 1 -->
-        <div style="background-color: antiquewhite;" >
-        <h3 style="color: rebeccapurple; font-size: 200%;">FÉRIAS DE VERÃO</h3>
-        <p style="color: rebeccapurple; font-size: 130%;"><u>Banhada pelo Oceano Atlântico na costa mais extensa do país, está situada na Região Nordeste.<br>
+        <div style=" font-family: Arial, Helvetica, sans-serif; background-color: antiquewhite;" >
+        <h3 style=" font-family: Arial, Helvetica, sans-serif; color: rebeccapurple; font-size: 200%;">FÉRIAS DE VERÃO</h3>
+        <p style=" font-family: Arial, Helvetica, sans-serif; color: rebeccapurple; font-size: 130%;"><u>Banhada pelo Oceano Atlântico na costa mais extensa do país, está situada na Região Nordeste.<br>
             O Estado mais famoso é a gostosa Bahia. Clique e saiba mais sobre este lugar incrivel e caloroso.</u></p>
         <a href="conteudo_1.html">
             <img src="img/nordeste-brasileiro.png" width="800" height="400" alt="Férias de Verão">
@@ -117,8 +117,8 @@ footer{
         
         <!-- Conteúdo 2 -->
         <div style="background-color: antiquewhite;" >
-        <h3 style="color: rebeccapurple; font-size: 200%;" >LUGARES PARA RELAXAR</h3>
-        <p style="color: rebeccapurple; font-size: 130%;"><u> O cansaço de uma rotina cheia pode pesar. O estresse é uma situação bastante comum para uma pessoa que vive atolada em compromissos <br>
+        <h3 style=" font-family: Arial, Helvetica, sans-serif; color: rebeccapurple; font-size: 200%;" >LUGARES PARA RELAXAR</h3>
+        <p style=" font-family: Arial, Helvetica, sans-serif; color: rebeccapurple; font-size: 130%;"><u> O cansaço de uma rotina cheia pode pesar. O estresse é uma situação bastante comum para uma pessoa que vive atolada em compromissos <br>
             Arejar a cabeça e deixar as preocupações de lado, nem que seja por um final de semana. Confira essas dicas.</u></p>
         <a href="conteudo_2.html">           
             <img src="img/Relaxar.jpg" width="800" height="400" alt="Relaxar">
@@ -128,9 +128,9 @@ footer{
         <hr><hr>
 
         <!-- Conteúdo 3 -->
-        <div style="background-color: antiquewhite;" >
-        <h3 style="color: rebeccapurple; font-size: 200%;">AVENTURA NA NEVE</h3>
-        <p style="color: rebeccapurple; font-size: 130%;"><u>A temporada de neve no Chile geralmente ocorre durante os meses de inverno,<br>
+        <div style=" font-family: Arial, Helvetica, sans-serif; background-color: antiquewhite;" >
+        <h3 style=" font-family: Arial, Helvetica, sans-serif; color: rebeccapurple; font-size: 200%;">AVENTURA NA NEVE</h3>
+        <p style=" font-family: Arial, Helvetica, sans-serif; color: rebeccapurple; font-size: 130%;"><u>A temporada de neve no Chile geralmente ocorre durante os meses de inverno,<br>
             entre os meses de junho a setembro. Temos dicas de visitas para esquiar ou tomar um bom vinho Chileno.</u></p>
         <a href="conteudo_3.html">
             <img src="img/Chile.jpg" width="800" height="400" alt="Neve">

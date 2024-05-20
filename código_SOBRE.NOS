@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre Nós</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 40px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        p {
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+        .grupo {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+        }
+        .membro-grupo {
+            background-color: #e9ecef;
+            padding: 20px;
+            border-radius: 5px;
+            margin: 10px;
+            width: 200px;
+            text-align: center;
+        }
+        .membro-grupo img {
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+            margin-bottom: 10px;
+        }
+        .membro-grupo h3 {
+            margin: 10px 0 5px;
+        }
+        .membro-grupo p {
+            margin: 0;
+        }
+        .back-button {
+            display: block;
+            width: 150px;
+            margin: 20px auto;
+            padding: 10px;
+            text-align: center;
+            background-color: #007bff;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 5px;
+            border: none;
+            cursor: pointer;
+        }
+        .back-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Sobre Nós</h1>
+        <p>Somos uma dupla de estudantes de Analise e desenvolvimento de Sistemas, e este é um projeto de front-end desenvolvido para a disciplina de Programação Web - Front End. Nosso objetivo foi criar uma aplicação web que atende-se o solicitado pelo professor usando HTML, CSS e JavaScript, aplicando os conhecimentos adquiridos ao longo das aulas e estudos fora do curso.</p>
+        <h2>Nosso Time</h2>
+        <div class="grupo">
+            <div class="membro-grupo">
+                <img src="https://via.placeholder.com/100" alt="Membro 1">
+                <h3>Felipe Fardin</h3>
+                <p>Desenvolvedor Front-end</p>
+            </div>
+            <div class="membro-grupo">
+                <img src="https://via.placeholder.com/100" alt="Membro 2">
+                <h3>Gabriel Teixeira</h3>
+                <p>Desenvolvedor Front-end</p>
+            </div>            
+        </div>
+    </div>
+        <a href="index.html" class="back-button">Voltar</a>
+    </div>
+</body>
+</html>

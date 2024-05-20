@@ -1,0 +1,90 @@
+<html lang="pt-br">
+<head>
+    <meta chars<!et="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="pasta de css/stylus.css">
+    <title>Blog da Viajem Tur</title>
+
+
+
+
+</head>
+
+<body>
+
+    <!--Topo da página-->
+    <header style="margin: auto;">
+        <h1>DICAS E HISTÓRIAS DE VIAGENS INCRÍVEIS</h1>        
+    </header>
+        
+    <nav><center>
+        <a href="index.html">HOME</a> |
+        <a href="contato.html">CONTATO</a> |
+        <a href="conteudo_2.html">SOBRE NÓS</a> |
+        </center>
+    </nav>
+  
+    <main>
+
+    <div>
+
+        Bem-vindos a um mundo de cores, ritmos e sabores inesquecíveis! Se você está em busca de um destino que celebra
+        a diversidade cultural, a exuberância natural e a hospitalidade calorosa, então a Bahia é o seu lugar!
+
+        Localizada no coração do Nordeste brasileiro, a Bahia é muito mais do que apenas um destino de férias; é uma
+        experiência que vai além das expectativas e deixa marcas permanentes em todos os que a visitam.
+
+        Imagine-se caminhando pelas ruas de Salvador, a capital baiana, onde cada esquina conta uma história de séculos
+        de história, cultura e tradição. Sinta a energia contagiante do Pelourinho, com suas cores vibrantes, música
+        pulsante e o aroma irresistível da culinária local.
+
+        Mas a Bahia não se resume apenas à sua capital. Explore as praias paradisíacas de Morro de São Paulo, Itacaré e
+        Porto Seguro, onde o mar azul-turquesa se encontra com coqueirais intermináveis, criando cenários dignos de
+        cartão postal.
+
+        Não deixe de provar as delícias da culinária baiana, com seus pratos típicos como o acarajé, a moqueca e o
+        vatapá, que conquistam paladares de todo o mundo com seus sabores únicos e aromas irresistíveis.
+
+        E o melhor de tudo é a hospitalidade do povo baiano, sempre pronto para receber os visitantes de braços abertos
+        e compartilhar um pouco da sua alegria de viver.
+
+        Então, prepare-se para uma jornada de descoberta e encantamento, enquanto exploramos juntos os encantos da
+        Bahia. Vem comigo e descubra por que este destino é tão especial e tão único! <br><br>
+       
+
+        <p style=" font-family: Arial, Helvetica, sans-serif; color: rebeccapurple; font-size: 130%;"><u>Pelourinho<br>
+        </u></p>
+        <img src="img/Casas coloridas.jpg" alt="Pelourinho, Salvador">
+        <hr><hr>
+        <p style=" font-family: Arial, Helvetica, sans-serif; color: rebeccapurple; font-size: 130%;"><u>Elevador Lacerda<br>
+        <img src="img/Forte bahia.jpg" alt="Elevador Lacerda">
+        <hr><hr>
+        <p style=" font-family: Arial, Helvetica, sans-serif; color: rebeccapurple; font-size: 130%;"><u>Barra Lighthouse<br>
+        <img src="img/Praia.jpg" alt="Barra Lighthouse">
+        <hr><hr>   
+        
+     </div>
+    </main>
+
+</body>
+<footer>  
+
+    <div class="rodape">
+         <div class="rodape">
+        <p>Contato:</p>
+        <p>E-mail: blogtur@blogtur.com.br</p>
+        <p>Rua da Alegria, Vitória/ES</p>            
+    </div>        
+    </div>
+    <div>
+        <p><strong>Siga as nossas redes sociais</strong></p>
+        <a href="facebook.html"><img src="img/facebook.png" alt="Facebook Blog"></a>
+        <a href="instagram.html"><img src="img/instagram.png"alt="Instagram Blog"></a>
+        <a href="youtube.html"><img src="img/youtube.png" alt="Youtube Blog"></a>
+        </div>
+    <p>&copy; 2024 Blog de Viagens</p>
+
+
+</footer>
+
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">]
+    <link rel="stylesheet" href="pasta de css/stylus.css">
+    <title>AVENTURA NA NEVE</title>
+</head>
+
+<body>
+
+   
+    <header>
+        <center>
+            <h1>AVENTURA NA NEVE</h1>
+        </center>
+    </header>
+    <nav><center>
+        <a href="index.html">HOME</a> |
+        <a href="contato.html">CONTATO</a> |
+        <a href="conteudo_2.html">SOBRE NÓS</a> |
+        </center>
+    </nav>
+    </nav>
+    <div class="texto">
+        <p>Para os amantes dos esportes de inverno, o Chile é um paraíso. Seus resorts de esqui, como Valle Nevado,
+            Portillo e Termas de Chillán, oferecem pistas desafiadoras e condições ideais para esquiadores e
+            snowboarders de
+            todos os níveis. As vistas panorâmicas das Cordilheiras dos Andes tornam a experiência ainda mais memorável.
+
+            E após um dia repleto de emoções nas montanhas, nada melhor do que relaxar e apreciar um dos tesouros do
+            Chile:
+            seu vinho de classe mundial. Com vales vinícolas renomados, como Colchagua, Casablanca e Maipo, os
+            visitantes
+            têm a oportunidade de degustar uma variedade de vinhos excepcionais, enquanto exploram as vinícolas locais e
+            aprendem sobre a rica tradição vinícola do país.
+
+            Assim, seja deslizando pelas encostas nevadas ou saboreando um bom vinho ao lado da lareira, o Chile oferece
+            uma
+            experiência verdadeiramente única, que combina aventura, beleza natural e prazer gastronômico de uma forma
+            inigualável.</p>
+    </div>
+    <div class="esqui">
+        <p>O Valle Nevado, localizado a cerca de 60 quilômetros de Santiago, é um renomado resort de esqui nas
+            Cordilheiras dos Andes, no Chile. Oferece excelentes condições de neve durante a temporada de inverno,
+            pistas para esquiadores de todos os níveis e uma variedade de comodidades, como escolas de esqui,
+            restaurantes e opções de hospedagem. Com sua localização privilegiada e serviços de alta qualidade, é um
+            destino popular para quem busca uma experiência de esqui inesquecível na América do Sul.</p>
+        <img src="img/vale nevado.jpg" style="padding-left: 25%;" width="800" height="400" alt="Vale nevado">
+
+        <hr><hr>
+
+
+        <p>Portillo é um renomado resort de esqui localizado nos Andes chilenos, a cerca de 160 quilômetros de Santiago.
+            Conhecido por suas pistas desafiadoras e neve de qualidade, o resort atrai esquiadores experientes de todo o
+            mundo. Além das excelentes condições de esqui, Portillo oferece uma variedade de comodidades, incluindo
+            escolas de esqui, aluguel de equipamentos e opções de hospedagem no histórico Hotel Portillo. Com sua
+            atmosfera exclusiva e paisagens deslumbrantes, é um destino popular para uma experiência de esqui
+            inesquecível no Chile.</p>
+            <img src="img/All-Inclusive-Resort-Hotel-Ski-Portillo.jpg" style="padding-left: 25%;" width="800" height="400" alt="All inclusive">
+
+            <hr><hr>
+            
+        <p>O Vale do Colchagua, no Chile, é um destino imperdível para os amantes do vinho e da cultura. Localizado a
+            cerca de 2 horas ao sul de Santiago, este vale é famoso por suas vinícolas premiadas e paisagens
+            deslumbrantes. Ao visitar o Vale do Colchagua, os turistas podem desfrutar de passeios pelas vinícolas,
+            degustações de vinhos excepcionais, e aprender sobre o processo de produção do vinho chileno. Além disso, a
+            região oferece uma rica herança cultural, com museus e galerias de arte que destacam a história e a arte
+            local. Com seu ambiente descontraído e acolhedor, o Vale do Colchagua proporciona uma experiência autêntica
+            e memorável para os viajantes que buscam explorar o melhor do vinho chileno e da hospitalidade.</p>
+            <img src="img/vina-santa-cruz-colchagua-3.jpg" style="padding-left: 25%;" width="800" height="400" alt="Santga Cruz">
+
+            <hr><hr>
+
+        <p> O Vale do Maipo é uma região vinícola emblemática do Chile, situada a poucos quilômetros a sudoeste de
+            Santiago, a capital do país. É uma das áreas mais antigas e importantes para a produção de vinho no Chile,
+            especialmente de vinhos tintos, com destaque para a variedade Cabernet Sauvignon.
+            As vinhas do Vale do Maipo se estendem pelas encostas dos Andes, beneficiando-se do clima mediterrâneo e das
+            influências dos rios Maipo e Mapocho. Essas condições únicas proporcionam um ambiente ideal para o cultivo
+            de uvas de alta qualidade.
+            Além das vinícolas renomadas, como Concha y Toro e Santa Rita, o Vale do Maipo também oferece uma paisagem
+            deslumbrante, com montanhas imponentes e vales verdejantes. Os visitantes podem desfrutar de tours pelas
+            vinícolas, degustações de vinhos premiados e experiências gastronômicas autênticas, tornando o Vale do Maipo
+            um destino imperdível para os amantes do vinho e da cultura chilena.</p>
+        <img src="img/valle-del-maipo.jpg" style="padding-left: 25%;" width="800" height="400" alt="Rota do Vinho">
+    </div>
+
+    <hr><hr>
+</body>
+<footer>
+
+    <div class="rodape">
+        <div class="rodape">
+            <p>Contato:</p>
+            <p>E-mail: blogtur@blogtur.com.br</p>
+            <p>Rua da Alegria, Vitória/ES</p>
+        </div>
+    </div>
+    <div>
+        <p><strong>Siga as nossas redes sociais</strong></p>
+        <a href="facebook.html"><img src="img/facebook.png" alt="Facebook Blog"></a>
+        <a href="instagram.html"><img src="img/instagram.png" alt="Instagram Blog"></a>
+        <a href="youtube.html"><img src="img/youtube.png" alt="Youtube Blog"></a>
+    </div>
+    <p>&copy; 2024 Blog de Viagens</p>
+</footer>
+
+</html>

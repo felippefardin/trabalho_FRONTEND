@@ -1,12 +1,13 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
+    <<meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blog da Viajem Tur</title>
+    <link rel="stylesheet" href="pasta de css/stylus.css">
+    <title>Blog Viagem Tour</title>
 
 
-    <style>
+<style>
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -18,8 +19,7 @@ header, footer {
     background-color: rebeccapurple;
     color: white;
     text-align: center;
-    padding: 10px 50px;
-            
+    padding: 10px 50px;            
 }
 
 nav {
@@ -32,7 +32,7 @@ main {
     text-align: center;
 }
 
-    #content1 {
+#content1 {
     text-align: center;
     padding: 20px;
 }
@@ -60,43 +60,40 @@ footer{
     background-color: rebeccapurple;
     padding-top: 1%; 
     text-align: center;
-
 }
 
 .rodape a{
     font-size: 0.8rem;
     color: #ffffff;
-
 }
 
 .rodape img{
-    padding: 5%;    
-
+    padding: 5%;
 }
-       
-        
+               
     </style>
 
 
 </head>
 
 <body>
+
+    <!--Topo da página-->
     <header style="margin: auto;">
         <h1>DICAS E HISTÓRIAS DE VIAGENS INCRÍVEIS</h1>        
     </header>
-    
+        
     <nav><center>
         <a href="index.html">HOME</a> |
-        <a href="conteudo_1.html">VOLTA AO MUNDO</a> |
-        <a href="conteudo_2.html">VIAJEM COM A FAMÍLIA</a> |
-        <a href="conteudo_3.html">BRINCANDO COM A NEVE</a> |
-        <a href="roteiros.html">FAÇA SEU ROTEIRO</a>
+        <a href="contato.html">CONTATO</a> |
+        <a href="sobrenos.html">SOBRE NÓS</a> |
         </center>
     </nav>
   
     <main>
+
     <!-- Página Home -->
-        <h2><strong>Bem-vindo ao nosso blog Viajem Tur!</strong></h2>
+        <h2><strong>Bem-vindo ao nosso blog Viagem Tour!</strong></h2>
         <p>Aqui você encontrará <strong style="color: rebeccapurple;">dicas, relatos e experiências</strong> de viagens incríveis ao redor do <strong style="color: rebeccapurple;">MUNDO</strong>.</p>
         
         <h3>Conteúdos em Destaque:</h3>
@@ -108,9 +105,9 @@ footer{
         <h3 style=" font-family: Arial, Helvetica, sans-serif; color: rebeccapurple; font-size: 200%;">FÉRIAS DE VERÃO</h3>
         <p style=" font-family: Arial, Helvetica, sans-serif; color: rebeccapurple; font-size: 130%;"><u>Banhada pelo Oceano Atlântico na costa mais extensa do país, está situada na Região Nordeste.<br>
             O Estado mais famoso é a gostosa Bahia. Clique e saiba mais sobre este lugar incrivel e caloroso.</u></p>
-        <a href="conteudo_1.html">
-            <img src="img/nordeste-brasileiro.png" width="800" height="400" alt="Férias de Verão">
-        </a>
+        <a href="ferias-verao.html">
+             <img src="img/nordeste-brasileiro.png" width="800" height="400" alt="Férias de Verão"></a>
+            
         </div>
 
         <hr><hr>
@@ -120,9 +117,8 @@ footer{
         <h3 style=" font-family: Arial, Helvetica, sans-serif; color: rebeccapurple; font-size: 200%;" >LUGARES PARA RELAXAR</h3>
         <p style=" font-family: Arial, Helvetica, sans-serif; color: rebeccapurple; font-size: 130%;"><u> O cansaço de uma rotina cheia pode pesar. O estresse é uma situação bastante comum para uma pessoa que vive atolada em compromissos <br>
             Arejar a cabeça e deixar as preocupações de lado, nem que seja por um final de semana. Confira essas dicas.</u></p>
-        <a href="conteudo_2.html">           
-            <img src="img/Relaxar.jpg" width="800" height="400" alt="Relaxar">
-        </a>
+        <a href="relaxar.html">           
+            <img src="img/Relaxar.jpg" width="800" height="400" alt="Relaxar"></a>
         </div>
 
         <hr><hr>
@@ -132,9 +128,8 @@ footer{
         <h3 style=" font-family: Arial, Helvetica, sans-serif; color: rebeccapurple; font-size: 200%;">AVENTURA NA NEVE</h3>
         <p style=" font-family: Arial, Helvetica, sans-serif; color: rebeccapurple; font-size: 130%;"><u>A temporada de neve no Chile geralmente ocorre durante os meses de inverno,<br>
             entre os meses de junho a setembro. Temos dicas de visitas para esquiar ou tomar um bom vinho Chileno.</u></p>
-        <a href="conteudo_3.html">
-            <img src="img/Chile.jpg" width="800" height="400" alt="Neve">
-        </a>
+        <a href="neve.html">
+            <img src="img/Chile.jpg" width="800" height="400" alt="Neve"></a>
         </div>
  
         <hr><hr>
@@ -142,8 +137,8 @@ footer{
         <!--Caixa de dialogo-->
         <p><strong>Informe seus dados:</strong><p>
         
-        <input type="text" id="email" placeholder="Digite seu e-mail"><br><br>
-        <input type="text" id="nome" placeholder="Digite seu nome"><br><br>
+        <input type="text" id="email" placeholder="Digite seu nome"><br><br>
+        <input type="text" id="nome" placeholder="Digite seu e-mail"><br><br>
         <input type="text" id="telefone" placeholder="Digite seu telefone"><br><br>
         
         <h2 style="color: rebeccapurple;">Conte-nos uma história da sua viajem:</h2>
